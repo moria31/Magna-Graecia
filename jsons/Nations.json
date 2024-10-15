@@ -1,4 +1,35 @@
 [
+{
+		"name": "Athens",
+		"leaderName": "Pericles",
+		"adjective": ["Attic"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+        //"personality": "Athenian", 
+	    //"style": "Mediterranean",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "As a matter of fact I too grow weary of peace.",
+		"defeated": "You have somehow become my undoing! What kind of beast are you?",
+		"introduction": "",
+
+		"neutralHello": "Welcome!",
+		"hateHello": "What, wretch?!",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [105, 15, 200],
+		"innerColor": [235, 215, 60],
+		//"favoredReligion": "Christianity",
+		"uniqueName": "Delian League",
+		//"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+3 Science, +3 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns <after adopting [Meritocracy]>"],
+		//"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+3 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 15 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
+	    "cities": ["Athens", "Amphipolis", "Thurii", "Chersonesus"],
+        "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
+    },
 //{
 //		"name": "Macedonia",
 //		"leaderName": "Alexander",
