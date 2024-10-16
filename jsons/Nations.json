@@ -180,7 +180,7 @@
 		"innerColor": [205, 200, 25],
 		//"favoredReligion": "Shinto",
 		"uniqueName": "Monumental city",
-		"uniques": ["[+15]% Production when constructing [All] wonders [in capital]","[+20]% Production when constructing [Culture] buildings [in capital]"],"[+1 Production] from every [Quarry]"],
+		"uniques": ["[+15]% Production when constructing [All] wonders [in capital]","[+20]% Production when constructing [Culture] buildings [in capital]","[+1 Production] from every [Quarry]"]]
 		//"uniqueText": "",
 	    "cities": ["Ephesus", "Priene", "Myus", "Colophon", "Lebedus", "Teos"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
