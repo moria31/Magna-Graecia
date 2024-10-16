@@ -197,9 +197,23 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "I have failed. May you, at least, know compassion towards our people.",
 		"outerColor": [0, 0, 0],
-		"innerColor": [255,153,153],
+		"innerColor": [143,188,143],
 		"cities": ["Knossos","Phaistos","Malia"]
 	},
+	{
+		"name": "Argos",
+		"adjective": ["Argive"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [178,34,34],
+		"cities": ["Almaty"]
+	},
+	
+	
 	
 //{
 //		"name": "Macedonia",
