@@ -128,7 +128,7 @@
 		"leaderName": "Thrasybulus",
 		"adjective": ["Milesian"],
 		"startBias": ["Coast"],
-        //"personality": "Theban", 
+        //"personality": "Milesian", 
 		"preferredVictoryType": "Scientific",
 		//"style": "Mediterranean",
 
@@ -154,7 +154,37 @@
 	    "cities": ["Miletus", "Abydos", "Arisbe", "Cyzicus", "Apollonia", "Istros", "Olbia", "Panticapaeum", "Sinope"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
     },	
-	
+	{
+		"name": "Ephesus",
+		"leaderName": "Melas",
+		"adjective": ["Ephesian"],
+		"startBias": ["Coast"],
+        //"personality": "Ephesian", 
+		"preferredVictoryType": "Scientific",
+		//"style": "Mediterranean",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"outerColor": [185, 55, 30],
+		"innerColor": [205, 200, 25],
+		//"favoredReligion": "Shinto",
+		"uniqueName": "Monumental city",
+		"uniques": ["[+15]% Production when constructing [All] wonders [in capital]","[+20]% Production when constructing [Culture] buildings [in capital]"],"[+1 Production] from every [Quarry]"],
+		//"uniqueText": "",
+	    "cities": ["Ephesus", "Priene", "Myus", "Colophon", "Lebedus", "Teos"],
+        "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
+    },	
 	
 	
 //{
