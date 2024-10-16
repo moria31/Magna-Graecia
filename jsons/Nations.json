@@ -87,7 +87,7 @@
 		"innerColor": [205, 200, 25],
 		//"favoredReligion": "Shinto",
 		"uniqueName": "Master of Two Harbours",
-		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in all coastal cities]","[+1] Happiness from each type of luxury resource","Free [Settler] appears <upon discovering [Sailing] technology>","[+50]% Production when constructing [Settler] units [in capital]"],
+		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in all coastal cities]","[+1] Happiness from each type of luxury resource","Free [Settler] appears <upon discovering [Sailing] technology>","[+25]% Production when constructing [Settler] units [in capital]"],
 		//"uniqueText": "",
 	    "cities": ["Corinth", "Syracuse", "Leontini", "Ambracia", "Epidamnus", "Apollonia of Illyria", "Corcyra", "Potidaea", "Leucas"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
@@ -123,6 +123,40 @@
 	    "cities": ["Thebes", "Tanagra", "Thespiae", "Coronea", "Haliartus", "Acraephnium", "Tetracomia", "Orchomenus", "Livadia", "Copae", "Anthedon", "Chaeronea"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
     },
+	{
+		"name": "Miletus",
+		"leaderName": "Thrasybulus",
+		"adjective": ["Milesian"],
+		"startBias": ["Coast"],
+        //"personality": "Theban", 
+		"preferredVictoryType": "Scientific",
+		//"style": "Mediterranean",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"outerColor": [185, 55, 30],
+		"innerColor": [205, 200, 25],
+		//"favoredReligion": "Shinto",
+		"uniqueName": "Cradle of philosophers",
+		"uniques": ["[+15]% [Science] [in capital]","[+15]% [Culture] [in capital]","Free [Settler] appears <upon discovering [Sailing] technology>","[+50]% Production when constructing [Settler] units [in capital]","Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
+		//"uniqueText": "",
+	    "cities": ["Miletus", "Abydos", "Arisbe", "Cyzicus", "Apollonia", "Istros", "Olbia", "Panticapaeum", "Sinope"],
+        "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
+    },	
+	
+	
+	
 //{
 //		"name": "Macedonia",
 //		"leaderName": "Alexander",
