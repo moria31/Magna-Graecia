@@ -200,20 +200,67 @@
 		"innerColor": [143,188,143],
 		"cities": ["Knossos","Phaistos","Malia"]
 	},
+//	{
+//		"name": "Argos",
+//		"adjective": ["Argive"],
+//		"cityStateType": "Militaristic",
+//
+//		"declaringWar": "You leave us no choice. War it must be.",
+//		"attacked": "Very well, this shall not be forgotten.",
+//		"defeated": "How could we fall to the likes of you?!",
+//		"outerColor": [0, 0, 0],
+//		"innerColor": [178,34,34],
+//		"cities": ["Almaty"]
+//	},
 	{
-		"name": "Argos",
-		"adjective": ["Argive"],
-		"cityStateType": "Militaristic",
+		"name": "Olympia",
+		"adjective": ["Olympic"],
+		"cityStateType": "Religious",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "How could we fall to the likes of you?!",
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
 		"outerColor": [0, 0, 0],
-		"innerColor": [178,34,34],
-		"cities": ["Almaty"]
+		"innerColor": [203, 253, 232],
+		"cities": ["Olympia"]
+	},	
+	{
+		"name": "Dodona",
+		"adjective": ["Dodonaean"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [203, 253, 232],
+		"cities": ["Dodona"]
+	},		
+	{
+		"name": "Delos",
+		"adjective": ["Delos"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [203, 253, 232],
+		"cities": ["Delos"]
+	},	
+	{
+		"name": "Delphi",
+		"adjective": ["Delphic"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [203, 253, 232],
+		"cities": ["Delphi"]
 	},
-	
-	
+
 	
 //{
 //		"name": "Macedonia",
