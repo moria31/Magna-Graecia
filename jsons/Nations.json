@@ -160,7 +160,7 @@
 		"adjective": ["Ephesian"],
 		"startBias": ["Coast"],
         //"personality": "Ephesian", 
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		//"style": "Mediterranean",
 
 		"startIntroPart1": "",
