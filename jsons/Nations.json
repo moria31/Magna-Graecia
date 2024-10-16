@@ -176,7 +176,7 @@
 
 		"tradeRequest": "",
 
-		"outerColor": [184, 134, 11],
+		"outerColor": [0, 0, 0],
 		"innerColor": [128, 128, 0],
 		//"favoredReligion": "Shinto",
 		"uniqueName": "Monumental city",
@@ -186,6 +186,20 @@
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
     },	
 	
+
+	//City-State
+	{
+		"name": "Crete",
+		"adjective": ["Minoan"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I have failed. May you, at least, know compassion towards our people.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,153,153],
+		"cities": ["Knossos","Phaistos","Malia"]
+	},
 	
 //{
 //		"name": "Macedonia",
