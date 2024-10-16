@@ -26,7 +26,7 @@
 		//"favoredReligion": "Christianity",
 		"uniqueName": "Delian League",
 		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate","Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves","Allied City-States provide [Culture] equal to [+10]% of what they produce for themselves"],
-		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \nAllied city-states donate 20% of their gold production as tribute and 10% of thei culture",
+		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \nAllied city-states donate 20% of their gold production as tribute and 10% of their culture",
 	    "cities": ["Athens", "Amphipolis", "Thurii", "Chersonesus"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
     },
@@ -66,7 +66,7 @@
 		"leaderName": "Periander",
 		"adjective": ["corinthian"],
 		"startBias": ["Coast"],
-        "personality": "corinthian", 
+        //"personality": "corinthian", 
 		"preferredVictoryType": "Diplomatic",
 		//"style": "Mediterranean",
 
@@ -90,6 +90,37 @@
 		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in all coastal cities]","[+1] Happiness from each type of luxury resource","Free [Settler] appears <upon discovering [Sailing] technology>","[+50]% Production when constructing [Settler] units [in capital]"],
 		//"uniqueText": "",
 	    "cities": ["Corinth", "Syracuse", "Leontini", "Ambracia", "Epidamnus", "Apollonia of Illyria", "Corcyra", "Potidaea", "Leucas"],
+        "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
+    },
+	{
+		"name": "Thebes",
+		"leaderName": "Epaminondas",
+		"adjective": ["Theban"],
+		"startBias": ["Avoid [Coast]"],
+        //"personality": "Theban", 
+		"preferredVictoryType": "Domination",
+		//"style": "Mediterranean",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"outerColor": [185, 55, 30],
+		"innerColor": [205, 200, 25],
+		//"favoredReligion": "Shinto",
+		"uniqueName": "Boeotian League",
+		"uniques": ["[+20]% Strength <for [Malee] units> <when defending>","[+1 Food] from [Farm] tiles [in all cities]","[+1 Production] from every [Pasture]"],
+		//"uniqueText": "",
+	    "cities": ["Thebes", "Tanagra", "Thespiae", "Coronea", "Haliartus", "Acraephnium", "Tetracomia", "Orchomenus", "Livadia", "Copae", "Anthedon", "Chaeronea"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
     },
 //{
