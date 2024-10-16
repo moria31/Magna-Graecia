@@ -25,11 +25,43 @@
 		"innerColor": [235, 215, 60],
 		//"favoredReligion": "Christianity",
 		"uniqueName": "Delian League",
-		//"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[+3 Science, +3 Culture] per [2] social policies adopted", "[+1 Culture] from all [Science] buildings", "Can spend Gold to annex or puppet a City-State that has been your ally for [15] turns <after adopting [Meritocracy]>"],
-		//"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \n+3 [Science] and +3 [Culture] for every other social policy adopted. \n+1 [Culture] from all [Science] buildings. \nCan annex allied CS with [Gold] after 15 turns of alliance have passed and Representation is adopted (TBR). \nCannot build settlers.",
+		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate"],
+		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast.",
 	    "cities": ["Athens", "Amphipolis", "Thurii", "Chersonesus"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
     },
+	{
+		"name": "Sparta",
+		"leaderName": "Leonidas",
+		"adjective": ["Spartan"],
+		"startBias": ["Avoid [Coast]"],
+        //"personality": "Spartan", 
+		"preferredVictoryType": "Domination",
+		//"style": "Mediterranean",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Laconia's fields require fresh helots, and her markets healthy slaves! \nThe weak should fear the strong; now natural order will be enforced.",
+		"attacked": "Sparta shall never submit to foreign cravens! Apollo smiles upon us, barbarian. You will not be walking away from this one.",
+		"defeated": "No... our society was infallible, indestructable... at least we will die with it like true Spartans.",
+		"introduction": "You know where this is.",
+
+		"neutralHello": "What, barbarian? Speak.",
+		"hateHello": "I would have settled our differences on the fields of battle, were we not currently preoccupied declaring war on our peasant class. \nWhat you may call madness, we call Sparda.",
+
+		"tradeRequest": "This is our offer. \nWe shall await your reply by the edge of a comically large hole.",
+
+		"outerColor": [185, 55, 30],
+		"innerColor": [205, 200, 25],
+		//"favoredReligion": "Shinto",
+		"uniqueName": "Peloponnesian League",
+		//"uniques": ["Free [Warrior] appears <upon constructing [Production] [in capital]> <with [33]% chance> <before the [Classical era]>", "Free [Elite Hoplites] appears <upon constructing [Production] [in capital]> <with [33]% chance> <starting from the [Classical era]> <before the [Medieval era]>", "Free [Pikeman] appears <upon constructing [Production] [in capital]> <with [33]% chance> <starting from the [Medieval era]> <before the [Renaissance era]>", "Free [Musketman] appears <upon constructing [Production] [in capital]> <with [33]% chance> <starting from the [Renaissance era]> <before the [Industrial era]>", "Free [Rifleman] appears <upon constructing [Production] [in capital]> <with [33]% chance> <starting from the [Industrial era]> <before the [Modern era]>", "Free [Infantry] appears <upon constructing [Production] [in capital]> <with [33]% chance> <starting from the [Modern era]>", "[+1 Production] from all [Barracks] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Warrior] appears <upon declaring war with a major Civilization> <before the [Classical era]>", "Free [Elite Hoplites] appears <upon declaring war with a major Civilization> <starting from the [Classical era]> <before the [Medieval era]>", "Free [Pikeman] appears <upon declaring war with a major Civilization> <starting from the [Medieval era]> <before the [Renaissance era]>",  "Free [Musketman] appears <upon declaring war with a major Civilization> <starting from the [Renaissance era]> <before the [Industrial era]>", "Free [Rifleman] appears <upon declaring war with a major Civilization> <starting from the [Industrial era]> <before the [Modern era]>", "Free [Infantry] appears <upon declaring war with a major Civilization> <starting from the [Modern era]>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
+		//"uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city. Get a free infantry unit when declaring war, and occasionally when complete production buildings in the capital. \nAll Melee units receive the Agoge Promotion \nCannot build settlers.",
+	    "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconium"],
+        "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
+    },
+
 //{
 //		"name": "Macedonia",
 //		"leaderName": "Alexander",
