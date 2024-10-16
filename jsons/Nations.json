@@ -5,7 +5,7 @@
 		"adjective": ["Athenian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
-        //"personality": "Athenian", 
+        "personality": "Athenian", 
 	    //"style": "Mediterranean",
 
 		"startIntroPart1": "",
@@ -32,10 +32,10 @@
     },
 	{
 		"name": "Sparta",
-		"leaderName": "Leonidas",
+		"leaderName": "Lysander",
 		"adjective": ["Spartan"],
 		"startBias": ["Avoid [Coast]"],
-        //"personality": "Spartan", 
+        "personality": "Lysander", 
 		"preferredVictoryType": "Domination",
 		//"style": "Mediterranean",
 

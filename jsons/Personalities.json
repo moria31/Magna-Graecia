@@ -1,31 +1,72 @@
 [
-//{
-//		"name": "Athenian",
-//		"preferredVictoryType": "Diplomatic",
-//	        "food": 4,
-//	        "production": 3,
-//	        "gold": 6,
-//	        "culture": 9,
-//	        "science": 10,
-//	        "faith": 4,
-//	        "military": 5,
-//	        //"warMongering": 4,
-//"aggressive": 4,
-//      "declareWar": 5,
-//      "commerce": 8,
-//      "diplomacy": 9,
-//      "loyal": 6,
-//      "expansion": 7,
-//"priorities": {
-//    "Freedom": 50,
-//    "Liberty": 50,
-//    "Rationalism": 50,
-//    "Exploration": 20,
-//    "Patronage": 10,
-//    "Aesthetics": 10
-//},
-//	"uniques": ["Will not build [Settler]"],
-//	},
+{
+    "name": "Pericles",
+    "production": 5,
+    "food": 4,
+    "gold": 6,
+    "science": 6,
+    "culture": 7,
+    "happiness": 7,
+    "faith": 5,
+    "military": 7,
+    "aggressive": 8,
+    "declareWar": 7,
+    "commerce": 6,
+    "diplomacy": 5,
+    "loyal": 3,
+    "expansion": 8,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 3,
+      "Commerce": 6,
+      "Patronage": 8,
+      "Piety": 5,
+      "Rationalism": 7,
+      "Freedom": 6,
+      "Autocracy": 4,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "Under the leadership of Pericles, Athens reached the height of its power, becoming a model of democracy and a beacon of civilization for the ancient world."
+      }
+    ]
+  },
+  {
+    "name": "Lysander",
+    "production": 5,
+    "food": 4,
+    "gold": 3,
+    "science": 5,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 4,
+    "military": 9,
+    "aggressive": 8,
+    "declareWar": 7,
+    "commerce": 4,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 4,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 3,
+      "Honor": 7,
+      "Commerce": 3,
+      "Patronage": 5,
+      "Piety": 3,
+      "Rationalism": 5,
+      "Freedom": 3,
+      "Autocracy": 5,
+      "Order": 8
+    },
+    "civilopediaText": [
+      {
+        "text": "By shattering the Athenian fleet and imposing oligarchies across the Greek world, Lysander transformed Sparta from a regional power into the undisputed hegemon of Greece."
+      }
+    ]
+  },
 //{
 //		"name": "Spartan",
 //		"preferredVictoryType": "Domination",
