@@ -56,7 +56,7 @@
 		"innerColor": [205, 200, 25],
 		//"favoredReligion": "Shinto",
 		"uniqueName": "Peloponnesian League",
-		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [75]% faster","Gain [100] Influence with a [Great General] gift to a City-State"],
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [75]% faster","Gain [100] Influence with a [Great General] gift to a City-State","Free [Great General] appears <upon discovering [Bronze Working] technology>"],
 		//"uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city. Get a free infantry unit when declaring war, and occasionally when complete production buildings in the capital. \nAll Melee units receive the Agoge Promotion \nCannot build settlers.",
 	    "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconium"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
