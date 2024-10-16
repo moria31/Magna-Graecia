@@ -61,7 +61,37 @@
 	    "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconium"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
     },
+    {
+		"name": "Corinth",
+		"leaderName": "Periander",
+		"adjective": ["corinthian"],
+		"startBias": ["Coast"],
+        "personality": "corinthian", 
+		"preferredVictoryType": "Diplomatic",
+		//"style": "Mediterranean",
 
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"neutralHello": "",
+		"hateHello": "",
+
+		"tradeRequest": "",
+
+		"outerColor": [185, 55, 30],
+		"innerColor": [205, 200, 25],
+		//"favoredReligion": "Shinto",
+		"uniqueName": "Master of Two Harbours",
+		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in all coastal cities]","[+1] Happiness from each type of luxury resource","Free [Settler] appears <upon discovering [Sailing] technology>","[+50]% Production when constructing [Settler] units [in capital]"],
+		//"uniqueText": "",
+	    "cities": ["Corinth", "Syracuse", "Leontini", "Ambracia", "Epidamnus", "Apollonia of Illyria", "Corcyra", "Potidaea", "Leucas"],
+        "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
+    },
 //{
 //		"name": "Macedonia",
 //		"leaderName": "Alexander",
