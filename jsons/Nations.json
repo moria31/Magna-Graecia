@@ -2,7 +2,7 @@
 {
 		"name": "Athens",
 		"leaderName": "Pericles",
-		"adjective": ["Attic"],
+		"adjective": ["Athenian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
         //"personality": "Athenian", 
@@ -25,8 +25,8 @@
 		"innerColor": [235, 215, 60],
 		//"favoredReligion": "Christianity",
 		"uniqueName": "Delian League",
-		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate"],
-		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast.",
+		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate","Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves","Allied City-States provide [Culture] equal to [+10]% of what they produce for themselves"],
+		"uniqueText": "City state influence recovers at twice the speed and degrades half as fast. \nAllied city-states donate 20% of their gold production as tribute and 10% of thei culture",
 	    "cities": ["Athens", "Amphipolis", "Thurii", "Chersonesus"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
     },
@@ -56,7 +56,7 @@
 		"innerColor": [205, 200, 25],
 		//"favoredReligion": "Shinto",
 		"uniqueName": "Peloponnesian League",
-		//"uniques": ["Free [Warrior] appears <upon constructing [Production] [in capital]> <with [33]% chance> <before the [Classical era]>", "Free [Elite Hoplites] appears <upon constructing [Production] [in capital]> <with [33]% chance> <starting from the [Classical era]> <before the [Medieval era]>", "Free [Pikeman] appears <upon constructing [Production] [in capital]> <with [33]% chance> <starting from the [Medieval era]> <before the [Renaissance era]>", "Free [Musketman] appears <upon constructing [Production] [in capital]> <with [33]% chance> <starting from the [Renaissance era]> <before the [Industrial era]>", "Free [Rifleman] appears <upon constructing [Production] [in capital]> <with [33]% chance> <starting from the [Industrial era]> <before the [Modern era]>", "Free [Infantry] appears <upon constructing [Production] [in capital]> <with [33]% chance> <starting from the [Modern era]>", "[+1 Production] from all [Barracks] buildings", "[+1] population [in capital] <upon conquering a city>", "Free [Worker] appears <upon conquering a city>", "Free [Warrior] appears <upon declaring war with a major Civilization> <before the [Classical era]>", "Free [Elite Hoplites] appears <upon declaring war with a major Civilization> <starting from the [Classical era]> <before the [Medieval era]>", "Free [Pikeman] appears <upon declaring war with a major Civilization> <starting from the [Medieval era]> <before the [Renaissance era]>",  "Free [Musketman] appears <upon declaring war with a major Civilization> <starting from the [Renaissance era]> <before the [Industrial era]>", "Free [Rifleman] appears <upon declaring war with a major Civilization> <starting from the [Industrial era]> <before the [Modern era]>", "Free [Infantry] appears <upon declaring war with a major Civilization> <starting from the [Modern era]>", "[-20]% Unhappiness from [Population] [in all cities with a garrison]", "[+50]% Unhappiness from [Specialists] [in capital]", "All newly-trained [Gunpowder] units [in capital] receive the [Agoge] promotion", "All newly-trained [Sword] units [in capital] receive the [Agoge] promotion", "[+50]% Production when constructing [Military] units [in capital]"],
+		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [75]% faster","Gain [100] Influence with a [Great General] gift to a City-State"],
 		//"uniqueText": "+50% [Production] of military units in the capital. \nGain 1 population in the capital and a worker upon conquering a city. Get a free infantry unit when declaring war, and occasionally when complete production buildings in the capital. \nAll Melee units receive the Agoge Promotion \nCannot build settlers.",
 	    "cities": ["Sparta", "Messene","Tegea", "Olympia", "Elis", "Laconium"],
         "spyNames": ["Nikos", "Yannis", "Kostas", "Dimitris", "Andreas", "Georgios", "Panagiotis", "Manolis", "Spiros", "Ioannis"]
