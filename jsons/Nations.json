@@ -21,8 +21,8 @@
 
 		"tradeRequest": "My friend, does this seem reasonable to you?",
 
-		"outerColor": [105, 15, 200],
-		"innerColor": [235, 215, 60],
+		"outerColor": [72, 61, 139],
+		"innerColor": [0, 255, 255],
 		//"favoredReligion": "Christianity",
 		"uniqueName": "Delian League",
 		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate","Allied City-States provide [Gold] equal to [+20]% of what they produce for themselves","Allied City-States provide [Culture] equal to [+10]% of what they produce for themselves"],
@@ -52,8 +52,8 @@
 
 		"tradeRequest": "This is our offer. \nWe shall await your reply by the edge of a comically large hole.",
 
-		"outerColor": [185, 55, 30],
-		"innerColor": [205, 200, 25],
+		"outerColor": [139, 0, 0],
+		"innerColor": [255, 0, 0],
 		//"favoredReligion": "Shinto",
 		"uniqueName": "Peloponnesian League",
 		"uniques": ["Great General provides double combat bonus", "[Great General] is earned [75]% faster","Gain [100] Influence with a [Great General] gift to a City-State","Free [Great General] appears <upon discovering [Bronze Working] technology>"],
@@ -66,7 +66,7 @@
 		"leaderName": "Periander",
 		"adjective": ["corinthian"],
 		"startBias": ["Coast"],
-        //"personality": "corinthian", 
+        "personality": "Periander", 
 		"preferredVictoryType": "Diplomatic",
 		//"style": "Mediterranean",
 
@@ -83,8 +83,8 @@
 
 		"tradeRequest": "",
 
-		"outerColor": [185, 55, 30],
-		"innerColor": [205, 200, 25],
+		"outerColor": [128, 128, 128],
+		"innerColor": [192, 192, 192],
 		//"favoredReligion": "Shinto",
 		"uniqueName": "Master of Two Harbours",
 		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in all coastal cities]","[+1] Happiness from each type of luxury resource","Free [Settler] appears <upon discovering [Sailing] technology>","[+25]% Production when constructing [Settler] units [in capital]"],
@@ -97,7 +97,7 @@
 		"leaderName": "Epaminondas",
 		"adjective": ["Theban"],
 		"startBias": ["Avoid [Coast]"],
-        //"personality": "Theban", 
+        "personality": "Epaminondas", 
 		"preferredVictoryType": "Domination",
 		//"style": "Mediterranean",
 
@@ -114,8 +114,8 @@
 
 		"tradeRequest": "",
 
-		"outerColor": [185, 55, 30],
-		"innerColor": [205, 200, 25],
+		"outerColor": [0, 0, 255],
+		"innerColor": [100, 149, 237],
 		//"favoredReligion": "Shinto",
 		"uniqueName": "Boeotian League",
 		"uniques": ["[+20]% Strength <for [Malee] units> <when defending>","[+1 Food] from [Farm] tiles [in all cities]","[+1 Production] from every [Pasture]"],
@@ -128,7 +128,7 @@
 		"leaderName": "Thrasybulus",
 		"adjective": ["Milesian"],
 		"startBias": ["Coast"],
-        //"personality": "Milesian", 
+        "personality": "Thrasybulus", 
 		"preferredVictoryType": "Scientific",
 		//"style": "Mediterranean",
 
@@ -145,8 +145,8 @@
 
 		"tradeRequest": "",
 
-		"outerColor": [185, 55, 30],
-		"innerColor": [205, 200, 25],
+		"outerColor": [218, 165, 32],
+		"innerColor": [255, 248, 220],
 		//"favoredReligion": "Shinto",
 		"uniqueName": "Cradle of philosophers",
 		"uniques": ["[+15]% [Science] [in capital]","[+15]% [Culture] [in capital]","Free [Settler] appears <upon discovering [Sailing] technology>","[+50]% Production when constructing [Settler] units [in capital]","Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
@@ -159,7 +159,7 @@
 		"leaderName": "Melas",
 		"adjective": ["Ephesian"],
 		"startBias": ["Coast"],
-        //"personality": "Ephesian", 
+        "personality": "Melas", 
 		"preferredVictoryType": "Diplomatic",
 		//"style": "Mediterranean",
 
@@ -176,8 +176,8 @@
 
 		"tradeRequest": "",
 
-		"outerColor": [185, 55, 30],
-		"innerColor": [205, 200, 25],
+		"outerColor": [184, 134, 11],
+		"innerColor": [128, 128, 0],
 		//"favoredReligion": "Shinto",
 		"uniqueName": "Monumental city",
 		"uniques": ["[+15]% Production when constructing [All] wonders [in capital]","[+20]% Production when constructing [Culture] buildings [in capital]","[+1 Production] from every [Quarry]"]
